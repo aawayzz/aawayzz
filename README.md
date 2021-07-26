@@ -1,6 +1,6 @@
 ### Hi there, I'm Henrique - aka [away] 👋
 
-[![Twitter Follow]<a class="twitter-follow-button"
+[![Website](https://img.shields.io/website?label=<a class="twitter-follow-button"
   href="https://twitter.com/TwitterDev"
   data-size="large">
 Follow @TwitterDev</a>
