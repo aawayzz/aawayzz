@@ -28,3 +28,16 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [STACKr News Shorts - Issue 3 - MongoDB .live Event Recordings](https://www.youtube.com/watch?v=mogH5SfyzLQ)
+- [STACKr News Shorts - Issue 3 - Useful Beginner Level JavaScript Code Snippets](https://www.youtube.com/watch?v=t57IZ0lP0mY)
+- [STACKr News Shorts - Issue 3 - Perf as a Job, Frontend Being Consumed, and How Much to Bill Clients](https://www.youtube.com/watch?v=STtPjRrF9s0)
+- [STACKr News Shorts - Issue 3 - Web Dev Highlights](https://www.youtube.com/watch?v=MnqIcetrBTI)
+- [STACKr News Shorts - Issue 3 - Kubernetes Backup and Restore made easy!](https://www.youtube.com/watch?v=M9M0mVWAft8)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://youtube.com/codestackr)
+
+---
