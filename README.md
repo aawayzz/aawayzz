@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything 🤣.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love listen to sad music when im coding and play games w/friends.
+- ⚡ Fun fact: I love listen to music when im coding and play hvh.
 
 ### Languages and Tools:
 
