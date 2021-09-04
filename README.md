@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning .luas .
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love listen to music when im coding and play hvh.
+- ⚡ Fun fact: I love listen to music when im coding and play some hvh.
 
 ### Languages and Tools:
 
