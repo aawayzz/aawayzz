@@ -4,7 +4,7 @@
 
 ## I'm a Developer & Student!
 
-- 🌱 I’m currently learning .luas.
+- 🌱 I’m currently learning .luas .
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love listen to music when im coding and play hvh.
