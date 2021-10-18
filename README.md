@@ -5,9 +5,10 @@
 ## I'm a Developer & Student!
 
 - 🌱 I’m currently learning .luas .
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love listen to music when im coding and play some hvh.
+- 👀 I’m interested in: Gamehacking & Webdevelopment .
+- 👯 I’m looking to collaborate with other content creators .
+- 🥅 2021 Goals: Contribute more to Open Source projects .
+- ⚡ languages: JS, HTML, CSS, PHP, C#, (luas soon) .
 
 ### Languages and Tools:
 
