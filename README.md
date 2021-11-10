@@ -8,7 +8,7 @@
 - 👀 I’m interested in: Gamehacking & Webdevelopment .
 - 👯 I’m looking to collaborate with other content creators .
 - 🥅 2021 Goals: Contribute more to Open Source projects .
-- ⚡ languages: JS, HTML, CSS, PHP, C#, (luas soon) .
+- ⚡ languages: JS, HTML, CSS, PHP, C#, (lua soon) .
 
 ### Languages and Tools:
 
