@@ -1,7 +1,5 @@
 ### Hi there, I'm ???????? - aka hen 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/andr4dx?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fawaayzz&screen_name=dumb)
-
 ## I'm a Developer & Student!
 
 - 🌱 I’m currently learning .luas .
